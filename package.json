@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwlWizp/ajs-workspase.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Wizp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwlWizp/ajs-workspase/issues"
+  },
+  "homepage": "https://github.com/OwlWizp/ajs-workspase#readme"
+}
